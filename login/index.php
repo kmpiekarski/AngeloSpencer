@@ -1,0 +1,1 @@
+<?php header( 'Location: http://www.angelospencer.com/wp-admin/' ) ;?>
